@@ -1,0 +1,5 @@
+{"id": 1, "question": "Write a function to compute the factorial of a number n.", "response": "def factorial(n):\n    return 1 if n == 0 else n * factorial(n-1)", "model": "gpt-3.5"}
+{"id": 2, "question": "Given a list of integers, return the sum of all even numbers.", "response": "def sum_even(nums):\n    return sum(x for x in nums if x % 2 == 0)", "model": "gpt-4"}
+{"id": 3, "question": "Write a function to check if a string is a palindrome.", "response": "def is_palindrome(s):\n    return s == s[::-1]", "model": "gpt-3.5"}
+{"id": 4, "question": "Find the maximum element in a list.", "response": "def find_max(lst):\n    return max(lst)", "model": "gpt-4"}
+{"id": 5, "question": "Write a function to reverse a linked list.", "response": "def reverse_list(head):\n    prev = None\n    curr = head\n    while curr:\n        next_node = curr.next\n        curr.next = prev\n        prev = curr\n        curr = next_node\n    return prev", "model": "gpt-3.5"}
