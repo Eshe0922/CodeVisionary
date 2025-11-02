@@ -14,11 +14,9 @@ An agent-based evaluation framework for complex code generation.
 ## Framework Demonstration
 Below is a video demonstrating the main functionalities of the prototype. Click on the thumbnail to watch the demonstration, which showcases key features and the overall workflow of the framework in action.
 
-![视频封面](logo.png)
-<video controls>
-  <source src="https://github.com/Eshe0922/CodeVisionary/blob/main/%E5%8E%9F%E5%9E%8B%E6%8A%80%E6%9C%AF%E5%B1%95%E7%A4%BA.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。
-</video>
+
+https://github.com/user-attachments/assets/78948dad-8367-4df5-9eb8-9b64ca639f6f
+
 
 ## Features
 
