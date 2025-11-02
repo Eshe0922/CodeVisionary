@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/b2519aec-6acc-4a61-91c4-b9d9faa30c61
 # CodeVisionary
 
 <p align="center">
@@ -16,10 +14,8 @@ An agent-based evaluation framework for complex code generation.
 ## Framework Demonstration
 Below is a video demonstrating the main functionalities of the prototype. Click on the thumbnail to watch the demonstration, which showcases key features and the overall workflow of the framework in action.
 
-
+https://github.com/user-attachments/assets/b2519aec-6acc-4a61-91c4-b9d9faa30c61
 Uploading 原型技术展示.mp4…
-
-
 
 ## Features
 
